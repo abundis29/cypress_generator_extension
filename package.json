@@ -1,0 +1,28 @@
+{
+  "name": "aipress",
+  "version": "1.0.0",
+  "description": "record automatic test on cypress ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satoshiNakamomo/aipress.git"
+  },
+  "keywords": [
+    "cypres",
+    "test",
+    "automation",
+    "recordingtest"
+  ],
+  "author": "@satoshiNakamoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satoshiNakamomo/aipress/issues"
+  },
+  "homepage": "https://github.com/satoshiNakamomo/aipress#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
